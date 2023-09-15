@@ -1,9 +1,9 @@
 [submodule "backend"]
 	path = backend
-	url = git@github.com:jonathan-f-silva/landing-dental-clinic-backend.git
+	url = git@github.com:jonathan-f-silva/landing-pages-backend.git
 [submodule "frontend"]
 	path = frontend
-	url = git@github.com:jonathan-f-silva/landing-dental-clinic-frontend.git
+	url = git@github.com:jonathan-f-silva/landing-pages-frontend.git
 [submodule "tests"]
 	path = tests
-	url = git@github.com:jonathan-f-silva/landing-dental-clinic-tests.git
+	url = git@github.com:jonathan-f-silva/landing-pages-tests.git
